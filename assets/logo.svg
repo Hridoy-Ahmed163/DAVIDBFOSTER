@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180" role="img" aria-label="David B. Foster Ministries">
+  <rect width="760" height="180" fill="#0B0B0B"/>
+  <g transform="translate(28 28) scale(1.24)">
+    <path fill="#D9A21B" fill-rule="evenodd" d="M8 6h48c18 0 30 10 30 24 0 10-6 17-16 20 12 3 20 12 20 22 0 16-14 22-34 22H8V6Zm22 18v20h24c8 0 12-3 12-10s-4-10-12-10H30Zm0 31v23h26c8 0 12-4 12-11s-4-12-12-12H30Z"/>
+  </g>
+  <text x="196" y="86" fill="#F5F1E8" font-family="Anton, 'Arial Narrow', sans-serif" font-size="46" letter-spacing="6">DAVID B. FOSTER</text>
+  <text x="198" y="120" fill="#D9A21B" font-family="Inter, Arial, sans-serif" font-size="13" letter-spacing="8" font-weight="600">MINISTRIES</text>
+</svg>
